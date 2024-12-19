@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ApproxImageAlgoAdaptatif",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ApproxImageAlgoAdaptatif::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ApproxImageAlgoAdaptatif-Debug-613b720feae3421879e2.json",
+					"name" : "ApproxImageAlgoAdaptatif",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ApproxImageAlgoAdaptatif_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ApproxImageAlgoAdaptatif_autogen-Debug-24c894b2b48b063fb00f.json",
+					"name" : "ApproxImageAlgoAdaptatif_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ApproxImageAlgoAdaptatif_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ApproxImageAlgoAdaptatif_autogen_timestamp_deps-Debug-9ddb04b07dd1427adeb7.json",
+					"name" : "ApproxImageAlgoAdaptatif_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oreste/CLionProjects/ApproxImageAlgoAdaptatif/cmake-build-debug",
+		"source" : "/home/oreste/CLionProjects/ApproxImageAlgoAdaptatif"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

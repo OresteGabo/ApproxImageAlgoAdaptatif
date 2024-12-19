@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="">
+        <file>kigali.png</file>
+    </qresource>
+</RCC>

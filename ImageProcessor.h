@@ -16,6 +16,7 @@ public:
 
 private:
     void generateRandomPoints(std::vector<QPointF> &points, int count, const QSize &size);
+    QImage computeVoronoiDiagram(const std::vector<QPointF> &points, const QSize &size);
 };
 
 #endif //APPROXIMAGEALGOADAPTATIF_IMAGEPROCESSOR_H

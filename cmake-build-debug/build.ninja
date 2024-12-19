@@ -89,6 +89,14 @@ build CMakeFiles/ApproxImageAlgoAdaptatif.dir/ImageProcessor.cpp.o: CXX_COMPILER
   OBJECT_DIR = CMakeFiles/ApproxImageAlgoAdaptatif.dir
   OBJECT_FILE_DIR = CMakeFiles/ApproxImageAlgoAdaptatif.dir
 
+build CMakeFiles/ApproxImageAlgoAdaptatif.dir/WorkerVoronoi.cpp.o: CXX_COMPILER__ApproxImageAlgoAdaptatif_unscanned_Debug /home/oreste/CLionProjects/ApproxImageAlgoAdaptatif/WorkerVoronoi.cpp || cmake_object_order_depends_target_ApproxImageAlgoAdaptatif
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/ApproxImageAlgoAdaptatif.dir/WorkerVoronoi.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -fPIC
+  INCLUDES = -isystem /home/oreste/CLionProjects/ApproxImageAlgoAdaptatif/cmake-build-debug/ApproxImageAlgoAdaptatif_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets
+  OBJECT_DIR = CMakeFiles/ApproxImageAlgoAdaptatif.dir
+  OBJECT_FILE_DIR = CMakeFiles/ApproxImageAlgoAdaptatif.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ApproxImageAlgoAdaptatif
@@ -97,7 +105,7 @@ build CMakeFiles/ApproxImageAlgoAdaptatif.dir/ImageProcessor.cpp.o: CXX_COMPILER
 #############################################
 # Link the executable ApproxImageAlgoAdaptatif
 
-build ApproxImageAlgoAdaptatif: CXX_EXECUTABLE_LINKER__ApproxImageAlgoAdaptatif_Debug CMakeFiles/ApproxImageAlgoAdaptatif.dir/ApproxImageAlgoAdaptatif_autogen/mocs_compilation.cpp.o CMakeFiles/ApproxImageAlgoAdaptatif.dir/main.cpp.o CMakeFiles/ApproxImageAlgoAdaptatif.dir/MainWindow.cpp.o CMakeFiles/ApproxImageAlgoAdaptatif.dir/CustomGraphicsView.cpp.o CMakeFiles/ApproxImageAlgoAdaptatif.dir/ImageProcessor.cpp.o | /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 || ApproxImageAlgoAdaptatif_autogen ApproxImageAlgoAdaptatif_autogen_timestamp_deps
+build ApproxImageAlgoAdaptatif: CXX_EXECUTABLE_LINKER__ApproxImageAlgoAdaptatif_Debug CMakeFiles/ApproxImageAlgoAdaptatif.dir/ApproxImageAlgoAdaptatif_autogen/mocs_compilation.cpp.o CMakeFiles/ApproxImageAlgoAdaptatif.dir/main.cpp.o CMakeFiles/ApproxImageAlgoAdaptatif.dir/MainWindow.cpp.o CMakeFiles/ApproxImageAlgoAdaptatif.dir/CustomGraphicsView.cpp.o CMakeFiles/ApproxImageAlgoAdaptatif.dir/ImageProcessor.cpp.o CMakeFiles/ApproxImageAlgoAdaptatif.dir/WorkerVoronoi.cpp.o | /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 || ApproxImageAlgoAdaptatif_autogen ApproxImageAlgoAdaptatif_autogen_timestamp_deps
   FLAGS = -g
   LINK_LIBRARIES = /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3  /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3
   OBJECT_DIR = CMakeFiles/ApproxImageAlgoAdaptatif.dir
@@ -155,7 +163,7 @@ build ApproxImageAlgoAdaptatif_autogen/timestamp ApproxImageAlgoAdaptatif_autoge
 #############################################
 # Phony custom command for CMakeFiles/ApproxImageAlgoAdaptatif_autogen_timestamp_deps
 
-build CMakeFiles/ApproxImageAlgoAdaptatif_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/ApproxImageAlgoAdaptatif_autogen_timestamp_deps: phony /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 /usr/lib/qt5/bin/moc /usr/lib/qt5/bin/uic /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3
+build CMakeFiles/ApproxImageAlgoAdaptatif_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/ApproxImageAlgoAdaptatif_autogen_timestamp_deps: phony /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 /usr/lib/qt5/bin/moc /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/qt5/bin/uic
 
 
 #############################################

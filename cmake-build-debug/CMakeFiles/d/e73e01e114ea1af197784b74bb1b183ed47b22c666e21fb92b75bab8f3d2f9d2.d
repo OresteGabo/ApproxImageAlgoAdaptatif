@@ -26,6 +26,8 @@ ApproxImageAlgoAdaptatif_autogen/timestamp: \
   /home/oreste/CLionProjects/ApproxImageAlgoAdaptatif/ImageProcessor.h \
   /home/oreste/CLionProjects/ApproxImageAlgoAdaptatif/MainWindow.cpp \
   /home/oreste/CLionProjects/ApproxImageAlgoAdaptatif/MainWindow.h \
+  /home/oreste/CLionProjects/ApproxImageAlgoAdaptatif/WorkerVoronoi.cpp \
+  /home/oreste/CLionProjects/ApproxImageAlgoAdaptatif/WorkerVoronoi.h \
   ApproxImageAlgoAdaptatif_autogen/moc_predefs.h \
   CMakeFiles/3.28.1/CMakeCCompiler.cmake \
   CMakeFiles/3.28.1/CMakeCXXCompiler.cmake \
@@ -263,6 +265,8 @@ ApproxImageAlgoAdaptatif_autogen/timestamp: \
   /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/QObject \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/QPointF \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qarraydata.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic.h \

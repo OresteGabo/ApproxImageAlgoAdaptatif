@@ -98,6 +98,12 @@
 			"MU",
 			"EWIEGA46WW/moc_MainWindow.cpp",
 			null
+		],
+		[
+			"/home/oreste/CLionProjects/ApproxImageAlgoAdaptatif/WorkerVoronoi.h",
+			"MU",
+			"EWIEGA46WW/moc_WorkerVoronoi.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -162,6 +168,11 @@
 		],
 		[
 			"/home/oreste/CLionProjects/ApproxImageAlgoAdaptatif/MainWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/oreste/CLionProjects/ApproxImageAlgoAdaptatif/WorkerVoronoi.cpp",
 			"MU",
 			null
 		],

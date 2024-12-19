@@ -18,11 +18,11 @@ MainWindow::MainWindow(QWidget *parent)
     connect(startButton, &QPushButton::clicked, this, &MainWindow::startVoronoiAlgorithm);
 
     // Mise en page
-    QVBoxLayout *layout = new QVBoxLayout;
+    auto layout = new QVBoxLayout;
     layout->addWidget(graphicsView);
     layout->addWidget(startButton);
 
-    QWidget *centralWidget = new QWidget;
+    auto centralWidget = new QWidget;
     centralWidget->setLayout(layout);
     setCentralWidget(centralWidget);
 

@@ -19,7 +19,9 @@ add_executable(ApproxImageAlgoAdaptatif main.cpp
         CustomGraphicsView.cpp
         CustomGraphicsView.h
         ImageProcessor.cpp
-        ImageProcessor.h)
+        ImageProcessor.h
+        WorkerVoronoi.cpp
+        WorkerVoronoi.h)
 target_link_libraries(ApproxImageAlgoAdaptatif
         Qt5::Core
         Qt5::Gui
